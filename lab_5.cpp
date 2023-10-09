@@ -10,7 +10,7 @@ int main() {
     cout << "Enter coefficients a, b and c: ";
     cin >> a >> b >> c;
 
-    // main 1
+    // main 1 - commit 1
     discriminant = b * b - 4 * a * c;
 
 
