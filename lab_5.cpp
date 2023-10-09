@@ -36,7 +36,7 @@ int main() {
         cout << "Roots are complex and different." << endl;
         // second 3 - commit 3
         cout << "Root 1 = (-" << b << " + i" << sqrt(-discriminant) << ") / " << 2*a << endl;
-        //second 4
+        //second 4 - commit 4
         cout << "Root 2 = (-" << b << " - i" << sqrt(-discriminant) << ") / " << 2*a << endl;
         // second 5
     }
