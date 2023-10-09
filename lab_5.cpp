@@ -22,7 +22,7 @@ int main() {
         cout << "Roots are real and different." << endl;
         cout << "Root 1 = " << root1 << endl;
         cout << "Root 2 = " << root2 << endl;
-        // main 4
+        // main 4 - commit 4
     } else if (discriminant == 0) {
             // main 5
         root1 = -b / (2 * a);
