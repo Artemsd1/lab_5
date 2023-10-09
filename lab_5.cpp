@@ -14,7 +14,7 @@ int main() {
     discriminant = b * b - 4 * a * c;
 
 
-    // main 2
+    // main 2 - commit 2
     if (discriminant > 0) {
         root1 = (-b + sqrt(discriminant)) / (2 * a);
         root2 = (-b - sqrt(discriminant)) / (2 * a);
