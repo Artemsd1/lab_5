@@ -57,7 +57,7 @@ char op;
             cout << num1 + num2;
             break;
 
-            // third 3
+            // third 3 - commit 3
         case '-':
             cout << num1 - num2;
             break;
